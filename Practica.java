@@ -22,7 +22,7 @@ public class Practica {
                 
         
         
-        resp = JOptionPane.showInputDialog("Hola, igrese su nombre: ");
+        resp = JOptionPane.showInputDialog("Hola, ingrese su nombre: ");
         
         nom = resp;
         
